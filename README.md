@@ -1,2 +1,7 @@
 # 5gp2018
-This is a testing repository
+
+
+Dear All,
+
+Please follow the steps below to update your project progress.
+
